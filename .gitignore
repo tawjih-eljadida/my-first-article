@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+myenv
+base.db
+/static
+/assets
+.DS_Store
